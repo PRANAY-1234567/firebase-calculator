@@ -44,4 +44,3 @@ Before running this project, make sure you have:
 - Firebase Realtime Database enabled
 - Service account key (`.json` file)
 
----
