@@ -27,7 +27,6 @@ else:
     print("Fail")
 
 
-
 ref=db.reference('Calsi')
 ref.push({"calculate the number":d})
 print("data sent ")
