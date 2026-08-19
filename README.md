@@ -1,6 +1,6 @@
 # 🧮 Python Calculator with Firebase Integration
 
-A simple **command-line calculator** built using **Python**, which performs basic arithmetic operations and **stores the calculated result in Firebase Realtime Database**.
+A simple command-line calculator built using **Python**, which performs basic arithmetic operations and **stores the calculated result in Firebase Realtime Database**.
 
 ---
 
