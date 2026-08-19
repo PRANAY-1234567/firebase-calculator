@@ -8,8 +8,6 @@ if not firebase_admin._apps:
 
 
 
-
-
 a=float(input("Enter the first number"))
 b=input("Enter the Operator")
 c=float(input("Enter the second number"))
@@ -23,7 +21,7 @@ elif b=="/":
         d=a/c
     else:
         print("cannot divide by zero")
-elif b=="-":
+elif b=="-":A
     d=a-c
 else:
     print("Fail")
